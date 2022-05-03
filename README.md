@@ -1,19 +1,3 @@
-# 05-routes-vue
+# Pagina de inicio
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+// 6967-6483 Ever Geovanni
