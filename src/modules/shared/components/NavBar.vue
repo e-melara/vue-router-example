@@ -10,16 +10,27 @@ export default {
     return {
       links: [
         {
-          to: '/home',
+          to: 'pokemon-home',
           name: 'Pokemons',
         },
         {
-          to: '/58',
+          to: 'pokemon-id',
           name: 'Por ids',
+          id: 151,
         },
         {
-          to: '/about',
+          to: 'pokemon-about',
           name: 'About',
+        },
+
+        // DBZ
+        {
+          to: 'dbz-character',
+          name: 'Personajes',
+        },
+        {
+          to: 'dbz-about',
+          name: 'DBZ About',
         },
 
         {
